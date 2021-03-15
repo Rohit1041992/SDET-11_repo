@@ -4,5 +4,8 @@ public class CreateBtn {
 	{
 		System.out.println("axsyz");
 	}
-
+	public void ddd2(String a,String b)
+	{
+		System.out.println("axsyz");
+	}
 }
